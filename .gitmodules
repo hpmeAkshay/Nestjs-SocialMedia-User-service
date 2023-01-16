@@ -1,0 +1,6 @@
+[submodule "src/Submodules/Nestjs-SocialMedia-Backend-Entities"]
+	path = src/Submodules/Nestjs-SocialMedia-Backend-Entities
+	url = git@github.com:hpmeAkshay/Nestjs-SocialMedia-Backend-Entities.git
+[submodule "src/Submodules/nestjs-social-media-dtos"]
+	path = src/Submodules/nestjs-social-media-dtos
+	url = git@github.com:hpmeAkshay/nestjs-social-media-dtos.git
